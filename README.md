@@ -58,3 +58,4 @@ recognize_me  -----加载我们已经训练好的模型，并将模型利用摄�
 W 值 的shape 是需要进行修改的。
 
 备注：这个模型是本人做人脸识别系统项目时候的个人见解，如果存在知识点上的误导，希望大家可以email来联系我：493200517@qq.com
+个人博客：https://blog.csdn.net/weixin_41370083/article/details/81317028
